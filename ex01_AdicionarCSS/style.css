@@ -1,0 +1,17 @@
+/* Usando CSS */
+h1{
+    /* Cor */
+    color: lightblue;
+    /* Tamanho */
+    font-size: 50px;
+}
+span{
+    color: aqua;
+}
+h2{
+    color: lightpink;
+    font-size: 30px;
+}
+p{
+    color: lightgoldenrodyellow;
+}
