@@ -1,0 +1,29 @@
+/* alterando cor por nome */
+.nome{
+    color:lavender ;
+    background-color: darkmagenta ;
+}
+
+/* Alterando cor por hexadecimal */
+.hexadecimal{
+    color: #acf0f2;
+    background-color:#728da1;
+}
+
+/*alterando cor por RGBA */
+.RGBA{
+    color: rgba(169, 231, 235, 0.75);
+    background-color: rgba(8, 62, 66);
+}
+
+/* Alterando a segunda página */
+.titulo-background{
+    color: #acf0f2;
+    background-color:rgb(36, 111, 149) ;
+    text-align: end;
+}
+.div-background{
+    background-image: url(cinna.webp);
+    height: 500px;
+    width: 500px;
+}
