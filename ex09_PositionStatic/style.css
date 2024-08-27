@@ -1,0 +1,10 @@
+.posicao{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border-bottom: 3px dashed darkred;
+}
+.static{
+    border-right: 3px solid salmon;
+    position: static;
+}
